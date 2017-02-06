@@ -1,7 +1,7 @@
 {
-  "name": "puppetlabs-motd",
-  "version": "1.4.0",
-  "author": "puppetlabs",
+  "name": "geoffwilliams-motd",
+  "version": "1.4.99",
+  "author": "geoffwilliams",
   "summary": "A simple module to demonstrate managing /etc/motd or Windows Logon Message as a template",
   "license": "Apache-2.0",
   "source": "https://github.com/puppetlabs/puppetlabs-motd",
